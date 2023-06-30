@@ -10,7 +10,7 @@
     <title>PHP Badwords</title>
 </head>
     <body>
-        <form action="" method="get">
+        <form action="./server.php" method="GET">
             <input type="text" name="firstWord">
             <input type="text" name="wordToCensor">
             
